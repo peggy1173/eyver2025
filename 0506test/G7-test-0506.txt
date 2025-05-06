@@ -1,5 +1,6 @@
 # 20250506 add by pc
-//Linux ¹q¸£Àô¹Ò¥´¤¤¤å¦r
+//https://github.com/peggy1173/eyver2025.git
+//Linux 中文
 //Get the current formatted time using moment 
 const moment = require('moment');
 const formattedTime = moment().format('YYYYMMDDHHmmss');
